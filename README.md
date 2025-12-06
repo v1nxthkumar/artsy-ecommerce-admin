@@ -1,3 +1,5 @@
+![Artsy E-commerce](frontend/src/assets/Thumbnail.png)
+
 # Artsy — Full Stack E-Commerce Platform
 
 Artsy is a modern full-stack e-commerce platform built to deliver seamless online shopping experiences with secure payments, authentication, responsive UI, and scalable architecture.
