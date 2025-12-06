@@ -1,30 +1,35 @@
-# Artsy — Full Stack E-Commerce Platform
+# Artsy-Admin – Modern E-Commerce Admin Dashboard
 
-Artsy is a modern full-stack e-commerce platform built to deliver seamless online shopping experiences with secure payments, authentication, responsive UI, and scalable architecture.
+> **Repository Name:** `Artsy-Admin`  
+> **Description:** A professional, secure, and feature-rich admin dashboard built for managing the Artsy e-commerce platform. Includes full control of product inventory, orders, users, and payment operations with a modern UI and robust backend infrastructure.
 
 ---
 
 ## Key Features
-- Full authentication system (JWT, Google OAuth)
-- Secure online payments (Stripe & Razorpay)
-- Product management with cloud image uploads (Cloudinary + Multer)
-- Cart & order management with real-time updates
-- Responsive, modern UI with smooth animations
-- Admin & User dashboards
-- RESTful API architecture
+
+- Complete Product & Inventory Management
+- Order Tracking & Sales Analytics Dashboard
+- Secure User Authentication & Role Authorization (JWT)
+- Integrated Payments with **Stripe & Razorpay**
+- Media Upload Handling via **Cloudinary**
+- Responsive UI with animations (TailwindCSS + Framer Motion)
+- RESTful API with MongoDB & Express
 
 ---
 
 ## Tech Stack
 
-**Frontend:** React, Vite, Tailwind, Framer Motion, React Router  
-**Backend:** Node.js, Express, MongoDB, Mongoose  
-**Integrations:** Stripe, Razorpay, Cloudinary, Google Auth
+### Frontend (Admin)
+**React, Vite, TailwindCSS, Axios, React Router, Recharts, Framer Motion**
+
+### Backend
+**Node.js, Express, MongoDB (Mongoose), JWT, Cloudinary, Multer, Stripe, Razorpay, dotenv**
 
 ---
 
-## Project Structure
+## Folder Structure
+
 ```bash
-Artsy/
-├── frontend/     # React + Vite client
-├── backend/      # Node.js + Express server
+Artsy-Admin/
+├── admin/
+└── backend/
