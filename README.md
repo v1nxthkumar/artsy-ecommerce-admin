@@ -1,8 +1,5 @@
 # Artsy-Admin – Modern E-Commerce Admin Dashboard
 
-<!-- Professional thumbnail at the top -->
-![Artsy Admin Dashboard](./admin/src/assets/thumb.png)
-
 > **Repository Name:** `Artsy-Admin`  
 > **Description:** A professional, secure, and feature-rich admin dashboard built for managing the Artsy e-commerce platform. Includes full control of product inventory, orders, users, and payment operations with a modern UI and robust backend infrastructure.
 
